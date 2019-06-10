@@ -8,6 +8,7 @@ import sys
 
 def menu():
     print('\n MENU \n')
+    print('Cadastro e Exibir')
     selecaoI = int(input('(1) Aluno \n'
                         '(2) Professor \n'
                         '(3) Funcionario \n'
